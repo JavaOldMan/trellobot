@@ -8,6 +8,7 @@
     "contentString": "",
     "enabledEvents": [
         "cardCreated"
+        "cardNameChanged"
     ],
     "userIDs": {
         "Majestic": "239470241992671232"
